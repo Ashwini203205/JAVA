@@ -1,6 +1,5 @@
 // JAVA
 
-
 /* JAVA compiler JDK 
    (compiler =at at time whole , interpreter=line by line)
 
